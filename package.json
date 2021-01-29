@@ -32,6 +32,7 @@
     "workbox-strategies": "^5.1.3",
     "workbox-streams": "^5.1.3"
   },
+  "homepage": "http://codingapple.com/blog"
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
